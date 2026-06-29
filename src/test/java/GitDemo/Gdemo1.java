@@ -6,7 +6,7 @@ public class Gdemo1 {
 	@Test(groups="smoke")
 	public void movieTest() {
 		System.out.println("Movie Name: Finding The Nemo");
-		System.out.println("Movie Name: titanic");
+		System.out.println("Movie Name: Normanday");
 	}
 
 }
